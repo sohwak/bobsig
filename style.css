@@ -1,0 +1,26 @@
+body {
+    margin:0 ;            
+}
+
+.header{
+    height: 60px;
+    background-color:#ddd;    
+}
+
+.banner{
+    float: left;
+    width: 30%;
+}
+
+.links{
+    float: right; 
+    width: 68%;
+    text-align: right;
+}
+
+.tockify-main {
+    position: absolute;
+    margin: 10%;
+    width: 100%;
+    height: 100%;
+}
